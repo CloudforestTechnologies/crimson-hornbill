@@ -352,3 +352,6 @@ MigrationBackup/
 #  Large data files
 data/1_raw
 data/2_interim
+
+# V-env files
+crimsonhornbillenv
